@@ -1,0 +1,28 @@
+.game-div-container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.header {
+  color: black;
+  font-size: 56px;
+  width: 100%;
+  text-align: center;
+}
+
+.game-section {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.game-text {
+  margin-left: 24px;
+  max-width: 300px;
+}
+
+.game-title {
+  font-size: 32px;
+}
